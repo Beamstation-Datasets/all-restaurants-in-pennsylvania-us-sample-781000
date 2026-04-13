@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1ad8997d-3167-4b9c-b116-75352436c6a8",
+  "id_short": 781000,
+  "published_at": "2026-04-13T07:45:26Z",
+  "repo_name": "all-restaurants-in-pennsylvania-us-sample-781000",
+  "sample_asset_name": "beamstation_781000_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/781000/beamstation_781000_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "5ee14db226d3a456df2ddfe6da896ce4616cd9d6b0a68e5ab16ae43af20ef855",
+  "sample_size_bytes": 2996880,
+  "total_records": 25678
+}
