@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Pennsylvania. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Pennsylvania, US",
-  "export_job_id": "1ad8997d-3167-4b9c-b116-75352436c6a8",
+  "export_job_id": "810b9107-f5f8-4cbc-a9cd-92fd19dc16f9",
   "github_org": "Beamstation-Datasets",
   "id_short": 781000,
   "location_name": "Pennsylvania",
   "location_type": "state",
   "repo_name": "all-restaurants-in-pennsylvania-us-sample-781000",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/781000/beamstation_781000_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_pct": 3.89,
+  "sample_pct": 4.2,
   "sample_records": 1000,
-  "sample_sha256": "5ee14db226d3a456df2ddfe6da896ce4616cd9d6b0a68e5ab16ae43af20ef855",
-  "sample_size_bytes": 2996880,
-  "total_records": 25678,
-  "updated_at": "2026-04-09T16:48:03.834886+00:00"
+  "sample_sha256": "9930d1aaf6567886499a9fad2f11b939a8e4602a23324509548fdca55cdc7634",
+  "sample_size_bytes": 2815800,
+  "total_records": 23810,
+  "updated_at": "2026-04-16T20:06:54.755439+00:00"
 }
