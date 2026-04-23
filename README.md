@@ -9,9 +9,9 @@
 | Dataset ID | `781000` |
 | Location | Pennsylvania |
 | Category | Restaurants |
-| Full dataset size | 23,810 records |
-| Free sample size | 1,000 records (4.2%) |
-| Last export | 2026-04-16T20:06:54.755439+00:00 |
+| Full dataset size | 21,942 records |
+| Free sample size | 1,000 records (4.56%) |
+| Last export | 2026-04-23T15:50:15.991677+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pennsylvania-us-sample-781000/releases/download/sample-latest/beamstation_781000_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
